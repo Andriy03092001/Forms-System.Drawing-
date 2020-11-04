@@ -1,0 +1,9 @@
+C:\Users\Admin\Desktop\System.Drawing\System.Drawing\bin\Debug\System.Drawing.exe.config
+C:\Users\Admin\Desktop\System.Drawing\System.Drawing\bin\Debug\System.Drawing.exe
+C:\Users\Admin\Desktop\System.Drawing\System.Drawing\bin\Debug\System.Drawing.pdb
+C:\Users\Admin\Desktop\System.Drawing\System.Drawing\obj\Debug\System.Drawing.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\System.Drawing\System.Drawing\obj\Debug\System.Drawing.Form1.resources
+C:\Users\Admin\Desktop\System.Drawing\System.Drawing\obj\Debug\System.Drawing.Properties.Resources.resources
+C:\Users\Admin\Desktop\System.Drawing\System.Drawing\obj\Debug\System.Drawing.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\System.Drawing\System.Drawing\obj\Debug\System.Drawing.exe
+C:\Users\Admin\Desktop\System.Drawing\System.Drawing\obj\Debug\System.Drawing.pdb
